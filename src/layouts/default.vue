@@ -47,7 +47,7 @@
       </v-list>
     </v-navigation-drawer>
     <v-footer :fixed="fixed" app>
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span>&copy; {{ new Date().getFullYear() }} Aeroworks.io</span>
     </v-footer>
   </v-app>
 </template>
