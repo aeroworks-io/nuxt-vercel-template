@@ -1,22 +1,32 @@
-# nuxt-typescript-vuetify-project
+# nuxt-vercel-template
 
-> Nuxt TypeScript Vuetify Project
+Nuxt TypeScript (Class Component) Vuetify Project that supports hosting on Vercel
+
+## includes:
+* jest
+* storybook
+* eslint
+* prettier
+
+## nuxt plugins
+* @nuxt/axios
+* 
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-$ npm install
+$ yarn install
 
 # serve with hot reload at localhost:3000
-$ npm run dev
+$ yarn dev
 
 # build for production and launch server
-$ npm run build
-$ npm run start
+$ yarn build
+$ yarn start
 
 # generate static project
-$ npm run generate
+$ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
