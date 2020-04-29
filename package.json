@@ -2,7 +2,8 @@
   "name": "nuxt-typescript-vuetify-project",
   "version": "1.0.0",
   "description": "Nuxt TypeScript Vuetify Project",
-  "author": "yoshi9518",
+  "author": "yu-ichiro",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "nuxt-ts",
